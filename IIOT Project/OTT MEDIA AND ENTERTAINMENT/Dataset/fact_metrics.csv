@@ -1,0 +1,118 @@
+Platform,Metric,Year,Value_Raw,Raw_Unit,Value_Std,Std_Unit,Detail,Source_File
+Netflix,Revenue,2011,3.1,$B,3.1,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2012,3.5,$B,3.5,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2013,4.3,$B,4.3,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2014,5.4,$B,5.4,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2015,6.7,$B,6.7,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2016,8.8,$B,8.8,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2017,11.6,$B,11.6,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2018,15.7,$B,15.7,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2019,20.1,$B,20.1,$B,Total revenue,Revenue_1.csv
+Netflix,Revenue,2020,24.9,$B,24.9,$B,Total revenue,Revenue_1.csv
+Netflix,Audience,2011,21.5,M,21.5,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2012,25.7,M,25.7,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2013,35.6,M,35.6,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2014,47.9,M,47.9,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2015,62.7,M,62.7,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2016,79.9,M,79.9,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2017,99.0,M,99.0,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2018,124.3,M,124.3,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2019,151.5,M,151.5,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Audience,2020,192.9,M,192.9,M,Paid subscribers (as provided; see Notes),NumSubscribers.csv
+Netflix,Profit,2012,0.05,$B,0.05,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2013,0.228,$B,0.228,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2014,0.403,$B,0.403,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2015,0.306,$B,0.306,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2016,0.379,$B,0.379,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2017,0.839,$B,0.839,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2018,1.6,$B,1.6,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2019,2.6,$B,2.6,$B,Profit (as provided),Profit.csv
+Netflix,Profit,2020,4.5,$B,4.5,$B,Profit (as provided),Profit.csv
+Netflix,Content Spend,2016,6.88,$B,6.88,$B,Content spend,ContentSpend.csv
+Netflix,Content Spend,2017,8.91,$B,8.91,$B,Content spend,ContentSpend.csv
+Netflix,Content Spend,2018,12.0,$B,12.0,$B,Content spend,ContentSpend.csv
+Netflix,Content Spend,2019,13.9,$B,13.9,$B,Content spend,ContentSpend.csv
+Netflix,Content Spend,2020,11.8,$B,11.8,$B,Content spend,ContentSpend.csv
+Netflix,Content Spend,2021,17.0,$B,17.0,$B,Content spend,ContentSpend.csv
+YouTube,Revenue,2010,0.8,$B,0.8,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2011,1.3,$B,1.3,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2012,1.7,$B,1.7,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2013,3.1,$B,3.1,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2014,4.2,$B,4.2,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2015,5.5,$B,5.5,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2016,6.7,$B,6.7,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2017,8.1,$B,8.1,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2018,11.1,$B,11.1,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2019,15.1,$B,15.1,$B,Ad revenue,Revenue.csv
+YouTube,Revenue,2020,19.7,$B,19.7,$B,Ad revenue,Revenue.csv
+YouTube,Audience,2012,0.8,B,800.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2013,1.0,B,1000.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2014,1.1,B,1100.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2015,1.2,B,1200.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2016,1.4,B,1400.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2017,1.5,B,1500.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2018,1.8,B,1800.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2019,2.0,B,2000.0,M,Users (billions in source),Users.csv
+YouTube,Audience,2020,2.3,B,2300.0,M,Users (billions in source),Users.csv
+YouTube,Premium Subscribers,2015,1.5,M,1.5,M,Premium subscribers,PremiumSubscribers.csv
+YouTube,Premium Subscribers,2016,3.0,M,3.0,M,Premium subscribers,PremiumSubscribers.csv
+YouTube,Premium Subscribers,2017,2.8,M,2.8,M,Premium subscribers,PremiumSubscribers.csv
+YouTube,Premium Subscribers,2018,10.0,M,10.0,M,Premium subscribers,PremiumSubscribers.csv
+YouTube,Premium Subscribers,2019,18.0,M,18.0,M,Premium subscribers,PremiumSubscribers.csv
+YouTube,Premium Subscribers,2020,30.0,M,30.0,M,Premium subscribers,PremiumSubscribers.csv
+TikTok,Revenue,2017,0.063,$B,0.063,$B,Revenue,Revenue_a57073.csv
+TikTok,Revenue,2018,0.15,$B,0.15,$B,Revenue,Revenue_a57073.csv
+TikTok,Revenue,2019,0.35,$B,0.35,$B,Revenue,Revenue_a57073.csv
+TikTok,Revenue,2020,1.9,$B,1.9,$B,Revenue,Revenue_a57073.csv
+TikTok,Revenue,2021,4.6,$B,4.6,$B,Revenue,Revenue_a57073.csv
+TikTok,Audience,2017,0.065,B,65.0,M,Users (billions in source),Users_1.csv
+TikTok,Audience,2018,0.133,B,133.0,M,Users (billions in source),Users_1.csv
+TikTok,Audience,2019,0.381,B,381.0,M,Users (billions in source),Users_1.csv
+TikTok,Audience,2020,0.7,B,700.0,M,Users (billions in source),Users_1.csv
+TikTok,Audience,2021,1.0,B,1000.0,M,Users (billions in source),Users_1.csv
+Hulu,Revenue,2010,0.2,$B,0.2,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2011,0.4,$B,0.4,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2012,0.6,$B,0.6,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2013,1.0,$B,1.0,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2014,1.1,$B,1.1,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2015,1.6,$B,1.6,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2016,2.0,$B,2.0,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2017,2.4,$B,2.4,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2018,3.1,$B,3.1,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2019,3.5,$B,3.5,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Revenue,2020,4.4,$B,4.4,$B,Total revenue (= ad + subscription),Revenue_c34f2f.csv
+Hulu,Audience,2011,1.0,M,1.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2012,2.0,M,2.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2013,4.0,M,4.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2014,6.0,M,6.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2015,10.0,M,10.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2016,12.0,M,12.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2017,17.0,M,17.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2018,25.0,M,25.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2019,28.0,M,28.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2020,39.0,M,39.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Audience,2021,43.0,M,43.0,M,Subscribers,NumSubscribers_0cec7b.csv
+Hulu,Ad Revenue,2016,0.9,$B,0.9,$B,Advertising revenue,AdRevenue.csv
+Hulu,Ad Revenue,2017,1.0,$B,1.0,$B,Advertising revenue,AdRevenue.csv
+Hulu,Ad Revenue,2018,1.5,$B,1.5,$B,Advertising revenue,AdRevenue.csv
+Hulu,Ad Revenue,2019,1.6,$B,1.6,$B,Advertising revenue,AdRevenue.csv
+Hulu,Ad Revenue,2020,1.5,$B,1.5,$B,Advertising revenue,AdRevenue.csv
+Hulu,Subscription Revenue,2016,1.1,$B,1.1,$B,Subscription revenue,SubscriptionRevenue.csv
+Hulu,Subscription Revenue,2017,1.3,$B,1.3,$B,Subscription revenue,SubscriptionRevenue.csv
+Hulu,Subscription Revenue,2018,1.6,$B,1.6,$B,Subscription revenue,SubscriptionRevenue.csv
+Hulu,Subscription Revenue,2019,1.9,$B,1.9,$B,Subscription revenue,SubscriptionRevenue.csv
+Hulu,Subscription Revenue,2020,2.9,$B,2.9,$B,Subscription revenue,SubscriptionRevenue.csv
+Hulu,Valuation,2010,2.0,$B,2.0,$B,Company valuation (only 4 years given),Valuation.csv
+Hulu,Valuation,2016,5.8,$B,5.8,$B,Company valuation (only 4 years given),Valuation.csv
+Hulu,Valuation,2018,9.3,$B,9.3,$B,Company valuation (only 4 years given),Valuation.csv
+Hulu,Valuation,2019,15.8,$B,15.8,$B,Company valuation (only 4 years given),Valuation.csv
+Hulu,Loss (unsigned),2017,0.9,$B,0.9,$B,Figure as provided; likely a net LOSS shown without sign - verify,Profit_e4b0c1.csv
+Hulu,Loss (unsigned),2018,1.8,$B,1.8,$B,Figure as provided; likely a net LOSS shown without sign - verify,Profit_e4b0c1.csv
+Hulu,Loss (unsigned),2019,1.5,$B,1.5,$B,Figure as provided; likely a net LOSS shown without sign - verify,Profit_e4b0c1.csv
+Hulu,Loss (unsigned),2020,0.6,$B,0.6,$B,Figure as provided; likely a net LOSS shown without sign - verify,Profit_e4b0c1.csv
+Unlabeled A,Revenue,2015,7.7,$B,7.7,$B,Platform not identified (2015-2020),Revenue_99c26a.csv
+Unlabeled A,Revenue,2016,9.6,$B,9.6,$B,Platform not identified (2015-2020),Revenue_99c26a.csv
+Unlabeled A,Revenue,2017,11.2,$B,11.2,$B,Platform not identified (2015-2020),Revenue_99c26a.csv
+Unlabeled A,Revenue,2018,13.6,$B,13.6,$B,Platform not identified (2015-2020),Revenue_99c26a.csv
+Unlabeled A,Revenue,2019,15.5,$B,15.5,$B,Platform not identified (2015-2020),Revenue_99c26a.csv
+Unlabeled A,Revenue,2020,18.1,$B,18.1,$B,Platform not identified (2015-2020),Revenue_99c26a.csv
